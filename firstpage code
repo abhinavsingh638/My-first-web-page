@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Webpage</title>
+</head>
+<body>
+    <h1>Welcome Sir!</h1>
+    <p>This is my first webpage, created with HTML.</p>
+<h2>Abhinav Singh</h2>
+    <table border="3">
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Course</th>
+            <th>Section</th>
+        </tr>
+        <tr>
+            <td>Abhinav Singh</td>
+            <td>18</td>
+            <td>BCA</td>
+            <td>A</td>
+        </tr>
+        <tr>
+            <td>Kartik Singh</td>
+            <td>21</td>
+            <td>MCA</td>
+            <td>B</td>
+        </tr>
+        <tr>
+            <td>Rahul</td>
+            <td>28</td>
+            <td>Phd</td>
+            <td>A</td>
+        </tr>
+    </table><br>
+    <form>
+        <input type="text" name="search" placeholder="Search..." />
+        <button type="submit">Search</button>
+    </form>
+</body>
+</html>
